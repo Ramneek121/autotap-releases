@@ -1,9 +1,9 @@
 {
-  "build": 7,
+  "build": 8,
   "version": "1.0.0",
-  "url": "https://github.com/Ramneek121/autotap-releases/releases/download/app-7/AutoTap.ipa",
-  "sha256": "91d0978b462f4936ef01c5a53f87945aa75017936af11eab6a758b11a42f9558",
-  "size": 10608669,
-  "notes": "iPad layouts in portrait and landscape, your week on Account, and updates from inside the app.",
-  "published": "2026-09-30T06:36:14Z"
+  "url": "https://github.com/Ramneek121/autotap-releases/releases/download/app-8/AutoTap.ipa",
+  "sha256": "182cd31b7698abb443b5ed7830b0f504b4da09c7bb2b3ca1dc46ae6344cb1f11",
+  "size": 10607952,
+  "notes": "Shows its build number in Settings, and tidies up after an update.",
+  "published": "2026-09-30T07:03:59Z"
 }

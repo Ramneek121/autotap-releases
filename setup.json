@@ -1,15 +1,15 @@
 {
-  "version": "1.1.0",
-  "notes": "AutoTap Setup now updates itself, and always installs the newest AutoTap from GitHub.",
-  "pub_date": "2026-09-30T06:46:44Z",
+  "version": "1.1.1",
+  "notes": "Knows which AutoTap it carries, so it only downloads a newer one.",
+  "pub_date": "2026-09-30T06:54:24Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRNE9ydzBldGtqTUxrWHFrUk5GZGI2WVppUVhSWFVVV2xYalR5RkNNQ3U0MS9GZEdjdk82azRHZHZZaVcxZERWbUh6VjdrNG96aFVGTDI1dGIzRncwenlhRGRCbkFXN0FJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwNzUwNzkwCWZpbGU6QXV0b1RhcC1TZXR1cC5hcHAudGFyLmd6CjQ0L3pjbExHbzV5VzduYkRNUTZ5dDIzSk1Wd2ZJY2pyTk5xajJRY25zLzU0L3V1R1JoZUw4dU5VeGt0elcxb3Y0WDhyUUpvRzkwNVFkZ1JEclBrdERBPT0K",
-      "url": "https://github.com/Ramneek121/autotap-releases/releases/download/setup-1.1.0/AutoTap-Setup.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRNE9ydzBldGtqTUZHajdiMDQyVEVxOTNIakVtNlBxZDQzMGlzWFhiLzh5WU1NbFdwMmNKWG9ocENvTnVlUDBjSGNOa2hPRFljNHp5MmJoWXNiNkxuZDhGbzRKbzd0amdFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwNzUxMjQ3CWZpbGU6QXV0b1RhcC1TZXR1cC5hcHAudGFyLmd6CmVVY1JUUTE2TzY1UEJiaTlzQXlxY0MrRVNzRmZXdHUwdWxUL0syUDBCUXUydVU4VFc2Q3RaS3Z3WEdhUEhVdzhaOEFpdHd5VWNZbGpXZVljZjlZcENRPT0K",
+      "url": "https://github.com/Ramneek121/autotap-releases/releases/download/setup-1.1.1/AutoTap-Setup.app.tar.gz"
     },
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRNE9ydzBldGtqTUxrWHFrUk5GZGI2WVppUVhSWFVVV2xYalR5RkNNQ3U0MS9GZEdjdk82azRHZHZZaVcxZERWbUh6VjdrNG96aFVGTDI1dGIzRncwenlhRGRCbkFXN0FJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwNzUwNzkwCWZpbGU6QXV0b1RhcC1TZXR1cC5hcHAudGFyLmd6CjQ0L3pjbExHbzV5VzduYkRNUTZ5dDIzSk1Wd2ZJY2pyTk5xajJRY25zLzU0L3V1R1JoZUw4dU5VeGt0elcxb3Y0WDhyUUpvRzkwNVFkZ1JEclBrdERBPT0K",
-      "url": "https://github.com/Ramneek121/autotap-releases/releases/download/setup-1.1.0/AutoTap-Setup.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRNE9ydzBldGtqTUZHajdiMDQyVEVxOTNIakVtNlBxZDQzMGlzWFhiLzh5WU1NbFdwMmNKWG9ocENvTnVlUDBjSGNOa2hPRFljNHp5MmJoWXNiNkxuZDhGbzRKbzd0amdFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwNzUxMjQ3CWZpbGU6QXV0b1RhcC1TZXR1cC5hcHAudGFyLmd6CmVVY1JUUTE2TzY1UEJiaTlzQXlxY0MrRVNzRmZXdHUwdWxUL0syUDBCUXUydVU4VFc2Q3RaS3Z3WEdhUEhVdzhaOEFpdHd5VWNZbGpXZVljZjlZcENRPT0K",
+      "url": "https://github.com/Ramneek121/autotap-releases/releases/download/setup-1.1.1/AutoTap-Setup.app.tar.gz"
     }
   }
 }

@@ -1,9 +1,9 @@
 {
-  "build": 10,
+  "build": 11,
   "version": "1.0.0",
-  "url": "https://github.com/Ramneek121/autotap-releases/releases/download/app-10/AutoTap.ipa",
-  "sha256": "25b7096ebacdddb493175f2362b2add2a46d6c7c07157ab15178d2d0a66c6ae9",
-  "size": 10622378,
-  "notes": "Updates show at the top of Settings, with a dot on the Settings tab.",
-  "published": "2026-09-30T07:35:32Z"
+  "url": "https://github.com/Ramneek121/autotap-releases/releases/download/app-11/AutoTap.ipa",
+  "sha256": "8f6ddb31e1f9a7439b0312c87c9a3fe6b57d0751a630e7de77f93393119de7f4",
+  "size": 10621464,
+  "notes": "Account: the avatar now sits centred under the sheet's name \u2014 Premium's ring is lit evenly on both sides and the sign-in badge hangs at its foot.",
+  "published": "2026-09-30T07:55:53Z"
 }

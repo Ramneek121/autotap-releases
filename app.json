@@ -1,9 +1,9 @@
 {
-  "build": 14,
+  "build": 15,
   "version": "1.0.0",
-  "url": "https://github.com/Ramneek121/autotap-releases/releases/download/app-14/AutoTap.ipa",
-  "sha256": "23302fb5908504601f62b663d118887261b3ba2408af33faef0366eea5b8b1c0",
-  "size": 10681774,
-  "notes": "A brand-new walkthrough you play instead of read: feel the taps, drop your own spots, set the pace, and press your real volume buttons to start and pause.",
-  "published": "2026-09-30T18:48:29Z"
+  "url": "https://github.com/Ramneek121/autotap-releases/releases/download/app-15/ReTap.ipa",
+  "sha256": "5b4eed96d6c8fc23d7283d97aebb1d09d3024e052b5d1a5e88758a5ebb69abea",
+  "size": 10682349,
+  "notes": "AutoTap is now ReTap. Same app, same setups, new name.",
+  "published": "2026-09-30T21:34:10Z"
 }

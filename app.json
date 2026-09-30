@@ -1,9 +1,9 @@
 {
-  "build": 12,
+  "build": 13,
   "version": "1.0.0",
-  "url": "https://github.com/Ramneek121/autotap-releases/releases/download/app-12/AutoTap.ipa",
-  "sha256": "fffdc308d6cee19289968c065168acbec8ebaa20b112043ab19a98da83a28138",
-  "size": 10617959,
-  "notes": "Start gets ready; then, from any app, volume up taps and volume down pauses, as often as you like. Lock your phone or press Stop in AutoTap to turn it off. No more countdown.",
-  "published": "2026-09-30T17:46:03Z"
+  "url": "https://github.com/Ramneek121/autotap-releases/releases/download/app-13/AutoTap.ipa",
+  "sha256": "9350d6092047ffe51dd5b47c07274048782b9af8301292940043dd407e353bb9",
+  "size": 10616361,
+  "notes": "Tidier on 6.1-inch phones: no more three-line notes, setup cards read in two clean lines, and the preset tips follow the volume controls.",
+  "published": "2026-09-30T18:11:58Z"
 }

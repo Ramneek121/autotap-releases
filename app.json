@@ -1,9 +1,9 @@
 {
-  "build": 11,
+  "build": 12,
   "version": "1.0.0",
-  "url": "https://github.com/Ramneek121/autotap-releases/releases/download/app-11/AutoTap.ipa",
-  "sha256": "8f6ddb31e1f9a7439b0312c87c9a3fe6b57d0751a630e7de77f93393119de7f4",
-  "size": 10621464,
-  "notes": "Account: the avatar now sits centred under the sheet's name \u2014 Premium's ring is lit evenly on both sides and the sign-in badge hangs at its foot.",
-  "published": "2026-09-30T07:55:53Z"
+  "url": "https://github.com/Ramneek121/autotap-releases/releases/download/app-12/AutoTap.ipa",
+  "sha256": "fffdc308d6cee19289968c065168acbec8ebaa20b112043ab19a98da83a28138",
+  "size": 10617959,
+  "notes": "Start gets ready; then, from any app, volume up taps and volume down pauses, as often as you like. Lock your phone or press Stop in AutoTap to turn it off. No more countdown.",
+  "published": "2026-09-30T17:46:03Z"
 }

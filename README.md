@@ -1,6 +1,6 @@
 # AutoTap releases
 
-**New Mac:** [download AutoTap Setup 1.1.1](https://github.com/Ramneek121/autotap-releases/releases/download/setup-1.1.1/AutoTap-Setup.dmg), open it, and drag AutoTap Setup into Applications.
+**New Mac:** [download AutoTap Setup](https://github.com/Ramneek121/autotap-releases/releases/latest/download/AutoTap-Setup.dmg) (1.1.1), open it, and drag AutoTap Setup into Applications.
 
 After that, nothing needs downloading by hand again:
 

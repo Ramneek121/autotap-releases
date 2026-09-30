@@ -1,9 +1,9 @@
 {
-  "build": 9,
+  "build": 10,
   "version": "1.0.0",
-  "url": "https://github.com/Ramneek121/autotap-releases/releases/download/app-9/AutoTap.ipa",
-  "sha256": "bd19efe83da15b1db9a1af42a9d550ca1e039cd87046c6fb46d5208f4b0619b5",
-  "size": 10617665,
-  "notes": "A Check for Updates card in Settings, Settings' lists look right again, and the version shows on Account.",
-  "published": "2026-09-30T07:21:06Z"
+  "url": "https://github.com/Ramneek121/autotap-releases/releases/download/app-10/AutoTap.ipa",
+  "sha256": "25b7096ebacdddb493175f2362b2add2a46d6c7c07157ab15178d2d0a66c6ae9",
+  "size": 10622378,
+  "notes": "Updates show at the top of Settings, with a dot on the Settings tab.",
+  "published": "2026-09-30T07:35:32Z"
 }

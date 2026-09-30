@@ -1,9 +1,9 @@
 {
-  "build": 8,
+  "build": 9,
   "version": "1.0.0",
-  "url": "https://github.com/Ramneek121/autotap-releases/releases/download/app-8/AutoTap.ipa",
-  "sha256": "182cd31b7698abb443b5ed7830b0f504b4da09c7bb2b3ca1dc46ae6344cb1f11",
-  "size": 10607952,
-  "notes": "Shows its build number in Settings, and tidies up after an update.",
-  "published": "2026-09-30T07:03:59Z"
+  "url": "https://github.com/Ramneek121/autotap-releases/releases/download/app-9/AutoTap.ipa",
+  "sha256": "bd19efe83da15b1db9a1af42a9d550ca1e039cd87046c6fb46d5208f4b0619b5",
+  "size": 10617665,
+  "notes": "A Check for Updates card in Settings, Settings' lists look right again, and the version shows on Account.",
+  "published": "2026-09-30T07:21:06Z"
 }

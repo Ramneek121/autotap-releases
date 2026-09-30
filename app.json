@@ -1,9 +1,9 @@
 {
-  "build": 13,
+  "build": 14,
   "version": "1.0.0",
-  "url": "https://github.com/Ramneek121/autotap-releases/releases/download/app-13/AutoTap.ipa",
-  "sha256": "9350d6092047ffe51dd5b47c07274048782b9af8301292940043dd407e353bb9",
-  "size": 10616361,
-  "notes": "Tidier on 6.1-inch phones: no more three-line notes, setup cards read in two clean lines, and the preset tips follow the volume controls.",
-  "published": "2026-09-30T18:11:58Z"
+  "url": "https://github.com/Ramneek121/autotap-releases/releases/download/app-14/AutoTap.ipa",
+  "sha256": "23302fb5908504601f62b663d118887261b3ba2408af33faef0366eea5b8b1c0",
+  "size": 10681774,
+  "notes": "A brand-new walkthrough you play instead of read: feel the taps, drop your own spots, set the pace, and press your real volume buttons to start and pause.",
+  "published": "2026-09-30T18:48:29Z"
 }

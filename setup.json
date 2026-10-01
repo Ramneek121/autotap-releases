@@ -1,15 +1,15 @@
 {
-  "version": "1.1.3",
-  "notes": "AutoTap Setup is now ReTap Setup. Same installer, new name: it renames itself in Applications.",
-  "pub_date": "2026-09-30T21:41:55Z",
+  "version": "1.1.2",
+  "notes": "Verification codes fill in by themselves when you copy them, pasting a whole message works, and the finishing guide shows the new volume controls.",
+  "pub_date": "2026-09-30T18:34:53Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRNE9ydzBldGtqTUU3K3UvRkVoK3kxekRLLzRPNjVaQldvYWlhU3VqZnVBNUNhWThVV1Z0RmFMWW1hQ1JoQzh2Mm9tK215SnEwSkRoWjk4Sk5kclB1LzBXbjZkdng4ZkFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwODA0NDk4CWZpbGU6UmVUYXAtU2V0dXAuYXBwLnRhci5negphN0VwSWh0YTZFUXdxSDRUekNLRWRrYkFLRmI0K2UrcEpWMUVWbmsvWStmQ0JlaWdrU2JiZlN0QWdoMVQrVG56QUJZKytNMGJvc0ZYNjFEVFdtbDNDZz09Cg==",
-      "url": "https://github.com/Ramneek121/autotap-releases/releases/download/setup-1.1.3/ReTap-Setup.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRNE9ydzBldGtqTUV6L01yTWtmbGRMVDhtNTl1T09ycHVVeG5pWDBoVUhYenpBS1pYWlArNXhmVUVUNk5YM29MY1d1MTRTbHZ5VGd2QUVCYStFQlg2OWN2SHlYb1FEdVE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwNzkzMjczCWZpbGU6QXV0b1RhcC1TZXR1cC5hcHAudGFyLmd6CnZ1U1djdVV3TGxiVEhrUVBnVzVMNjhwclBVT3cyVnBVeUM4MEpadVhtdHQxT2x4ZEVVWGVaMFB4VHlpWWIwaVNibytVbVNhTnRJc0lhbFRtajJuSEJnPT0K",
+      "url": "https://github.com/Ramneek121/autotap-releases/releases/download/setup-1.1.2/AutoTap-Setup.app.tar.gz"
     },
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRNE9ydzBldGtqTUU3K3UvRkVoK3kxekRLLzRPNjVaQldvYWlhU3VqZnVBNUNhWThVV1Z0RmFMWW1hQ1JoQzh2Mm9tK215SnEwSkRoWjk4Sk5kclB1LzBXbjZkdng4ZkFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwODA0NDk4CWZpbGU6UmVUYXAtU2V0dXAuYXBwLnRhci5negphN0VwSWh0YTZFUXdxSDRUekNLRWRrYkFLRmI0K2UrcEpWMUVWbmsvWStmQ0JlaWdrU2JiZlN0QWdoMVQrVG56QUJZKytNMGJvc0ZYNjFEVFdtbDNDZz09Cg==",
-      "url": "https://github.com/Ramneek121/autotap-releases/releases/download/setup-1.1.3/ReTap-Setup.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRNE9ydzBldGtqTUV6L01yTWtmbGRMVDhtNTl1T09ycHVVeG5pWDBoVUhYenpBS1pYWlArNXhmVUVUNk5YM29MY1d1MTRTbHZ5VGd2QUVCYStFQlg2OWN2SHlYb1FEdVE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwNzkzMjczCWZpbGU6QXV0b1RhcC1TZXR1cC5hcHAudGFyLmd6CnZ1U1djdVV3TGxiVEhrUVBnVzVMNjhwclBVT3cyVnBVeUM4MEpadVhtdHQxT2x4ZEVVWGVaMFB4VHlpWWIwaVNibytVbVNhTnRJc0lhbFRtajJuSEJnPT0K",
+      "url": "https://github.com/Ramneek121/autotap-releases/releases/download/setup-1.1.2/AutoTap-Setup.app.tar.gz"
     }
   }
 }

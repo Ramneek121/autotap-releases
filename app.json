@@ -1,9 +1,9 @@
 {
-  "build": 23,
+  "build": 24,
   "version": "1.0.1",
-  "url": "https://github.com/Ramneek121/autotap-releases/releases/download/app-23/AutoTap.ipa",
-  "sha256": "547b00b835d02940a47945c13bffe361e6c9a3294371e3566798ace591d2a01b",
-  "size": 8555714,
-  "notes": "Send your log to support from Settings \u2192 Activity Log: attach it to a ticket in our Discord or email it.",
-  "published": "2026-10-04T07:53:47Z"
+  "url": "https://github.com/Ramneek121/autotap-releases/releases/download/app-24/AutoTap.ipa",
+  "sha256": "4e9f34edb9c6a2df5168cfc48d4c8e9aff8a3512d3350da6ebe9a559d50937f5",
+  "size": 8556549,
+  "notes": "Run lengths now show in minutes, and the + and \u2212 buttons move a whole minute at a time.",
+  "published": "2026-10-04T14:56:58Z"
 }

@@ -10,6 +10,10 @@
     "darwin-x86_64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRNE9ydzBldGtqTUpuQVh4blNNRDU4ZHRJSzhOWjBBT1ExSktLWkEyYjBWbUp6bE8raUU1NVl4Si81bWJDMmJ6R2tXR0lFTTFHR2ljRmVVVFFZQmxqSml2WnlkM3ZDTXc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMDc3NTIyCWZpbGU6QXV0b1RhcC1TZXR1cC5hcHAudGFyLmd6CjVlUWNlSjU4RCt6aG1GNHVTM25vanFYQ1g3djdtTXJnRjJkWFRqWUtyb1B1RnR0VXRJMmw3aUJDeTlUTW5KenBTdERuODNCcHBkSUQva25ZNlNKaUJRPT0K",
       "url": "https://github.com/Ramneek121/autotap-releases/releases/download/setup-1.1.5/AutoTap-Setup.app.tar.gz"
+    },
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRNE9ydzBldGtqTU9GMHpobi9RSS9Wd2s5RWFoeldCWDlEdnl3TG8yZnc0SXczRkg2aWlvbDdiTFFoK3AwZWRhMmx0LzBjaExrUVlOZnlmMnNMbVRHcy9QS2lJL2NwNndRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMDk0MjUzCWZpbGU6QXV0b1RhcC1TZXR1cC5leGUKblUxTFZuTG9EZm5oVktGTFkzZlp4bHByQnJWU3NXZXlYVURBZmV1aitTbVNicythay9QZXdoWFY3M3I4U2RwbkRIOWx4Q29tdys0TmZUNC9XN1pyQlE9PQo=",
+      "url": "https://github.com/Ramneek121/autotap-releases/releases/download/setup-1.1.5/AutoTap-Setup.exe"
     }
   }
 }

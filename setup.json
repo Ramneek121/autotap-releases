@@ -1,19 +1,19 @@
 {
-  "version": "1.1.5",
-  "notes": "Your Apple Account password is now saved only if you turn on Remember my password, and then in your Mac's Keychain instead of a file. Passwords saved by earlier versions move there automatically.",
-  "pub_date": "2026-10-04T01:32:26Z",
+  "version": "1.1.6",
+  "notes": "Setup's log is now private: it's sealed so only AutoTap support can read it. Stability improvements.",
+  "pub_date": "2026-10-04T07:29:30Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRNE9ydzBldGtqTUpuQVh4blNNRDU4ZHRJSzhOWjBBT1ExSktLWkEyYjBWbUp6bE8raUU1NVl4Si81bWJDMmJ6R2tXR0lFTTFHR2ljRmVVVFFZQmxqSml2WnlkM3ZDTXc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMDc3NTIyCWZpbGU6QXV0b1RhcC1TZXR1cC5hcHAudGFyLmd6CjVlUWNlSjU4RCt6aG1GNHVTM25vanFYQ1g3djdtTXJnRjJkWFRqWUtyb1B1RnR0VXRJMmw3aUJDeTlUTW5KenBTdERuODNCcHBkSUQva25ZNlNKaUJRPT0K",
-      "url": "https://github.com/Ramneek121/autotap-releases/releases/download/setup-1.1.5/AutoTap-Setup.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRNE9ydzBldGtqTUJRZVQ5dC9WRjBIcHpnWVo1alprUzNiZTlXRlZoY0Z1aWZhZEt3UUJCWUcrd1hrcjhPdEpnQkxzMUh0WUFqZjJ2aXFOOUFQMlNvenRMSE1vOVN2THdFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMDk4Njk2CWZpbGU6QXV0b1RhcC1TZXR1cC5hcHAudGFyLmd6CkxKcGZNMmpkKzd3cWM3R21QUmpOWmxQSDFEZWl3RW52UXhVTU9NN21Wd3JzZVc5a1RwUHVPU2VNbjdFY0picFJaZUt4Ulg4NncrTjZPMklwWmtQOUNRPT0K",
+      "url": "https://github.com/Ramneek121/autotap-releases/releases/download/setup-1.1.6/AutoTap-Setup.app.tar.gz"
     },
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRNE9ydzBldGtqTUpuQVh4blNNRDU4ZHRJSzhOWjBBT1ExSktLWkEyYjBWbUp6bE8raUU1NVl4Si81bWJDMmJ6R2tXR0lFTTFHR2ljRmVVVFFZQmxqSml2WnlkM3ZDTXc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMDc3NTIyCWZpbGU6QXV0b1RhcC1TZXR1cC5hcHAudGFyLmd6CjVlUWNlSjU4RCt6aG1GNHVTM25vanFYQ1g3djdtTXJnRjJkWFRqWUtyb1B1RnR0VXRJMmw3aUJDeTlUTW5KenBTdERuODNCcHBkSUQva25ZNlNKaUJRPT0K",
-      "url": "https://github.com/Ramneek121/autotap-releases/releases/download/setup-1.1.5/AutoTap-Setup.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRNE9ydzBldGtqTUJRZVQ5dC9WRjBIcHpnWVo1alprUzNiZTlXRlZoY0Z1aWZhZEt3UUJCWUcrd1hrcjhPdEpnQkxzMUh0WUFqZjJ2aXFOOUFQMlNvenRMSE1vOVN2THdFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMDk4Njk2CWZpbGU6QXV0b1RhcC1TZXR1cC5hcHAudGFyLmd6CkxKcGZNMmpkKzd3cWM3R21QUmpOWmxQSDFEZWl3RW52UXhVTU9NN21Wd3JzZVc5a1RwUHVPU2VNbjdFY0picFJaZUt4Ulg4NncrTjZPMklwWmtQOUNRPT0K",
+      "url": "https://github.com/Ramneek121/autotap-releases/releases/download/setup-1.1.6/AutoTap-Setup.app.tar.gz"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRNE9ydzBldGtqTU9GMHpobi9RSS9Wd2s5RWFoeldCWDlEdnl3TG8yZnc0SXczRkg2aWlvbDdiTFFoK3AwZWRhMmx0LzBjaExrUVlOZnlmMnNMbVRHcy9QS2lJL2NwNndRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMDk0MjUzCWZpbGU6QXV0b1RhcC1TZXR1cC5leGUKblUxTFZuTG9EZm5oVktGTFkzZlp4bHByQnJWU3NXZXlYVURBZmV1aitTbVNicythay9QZXdoWFY3M3I4U2RwbkRIOWx4Q29tdys0TmZUNC9XN1pyQlE9PQo=",
-      "url": "https://github.com/Ramneek121/autotap-releases/releases/download/setup-1.1.5/AutoTap-Setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRNE9ydzBldGtqTUs0ZVAzVEtHVGt0Qy92S3Q2aUNDcVFJZ0tvTFF0NDFFekZpNHE3d2VjZVQ1TDZSQUkvNmY0dk1sdzI2aitzUXI4eFJGT1lLcGMyL0ozZ2ZINGViTHdvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMDk4OTUzCWZpbGU6QXV0b1RhcC1TZXR1cC5leGUKNjcvTmFqeGdGN21JakhYdUttUklwMVN0aEk5dVVCMnBOdHh2SHlsZEZ2Sng1Mk1KZ1BuZkRNZXZlMVhvYXRKRHlGSjIzU1lyMTRpektkWG0wZzZOQ1E9PQo=",
+      "url": "https://github.com/Ramneek121/autotap-releases/releases/download/setup-1.1.6/AutoTap-Setup.exe"
     }
   }
 }

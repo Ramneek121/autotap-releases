@@ -1,9 +1,9 @@
 {
-  "build": 21,
+  "build": 22,
   "version": "1.0.1",
-  "url": "https://github.com/Ramneek121/autotap-releases/releases/download/app-21/AutoTap.ipa",
-  "sha256": "ee03da98c12343a87477f44b296d1a41c0a431c4a5a6cc41983aae77aeba3948",
-  "size": 8555448,
-  "notes": "Privacy and stability improvements. Your activity log is now private, and you can send it to AutoTap support from Settings.",
-  "published": "2026-10-04T07:14:01Z"
+  "url": "https://github.com/Ramneek121/autotap-releases/releases/download/app-22/AutoTap.ipa",
+  "sha256": "425b90396c3df8fcf01b2bcd273d66c0e3c522a8515510d854581dcebf789851",
+  "size": 8556241,
+  "notes": "If you're on a call, AutoTap now tells you to end it to start tapping.",
+  "published": "2026-10-04T07:46:11Z"
 }

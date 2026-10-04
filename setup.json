@@ -1,15 +1,15 @@
 {
-  "version": "1.1.4",
-  "notes": "AutoTap Setup 1.1.4",
-  "pub_date": "2026-10-01T00:35:32Z",
+  "version": "1.1.5",
+  "notes": "Your Apple Account password is now saved only if you turn on Remember my password, and then in your Mac's Keychain instead of a file. Passwords saved by earlier versions move there automatically.",
+  "pub_date": "2026-10-04T01:32:26Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRNE9ydzBldGtqTUJVV1MrRXZUNmI2NUdhN2wxMUpLejd3a2tyQm9oY2lFZERGMkJITklLVU5Va3Z2MlZtalo1ZjJ3QmJrZDBaa0NlZWp4WndUZVFickQ0QlhIU3ZVZ2dJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwODE0OTExCWZpbGU6QXV0b1RhcC1TZXR1cC5hcHAudGFyLmd6ClY0Q1NUUzN5cExqSllqWlQ2Nm9tMnlEUnRNOHFpM3hsT1V4VDhyczAxYnZiK0tZVW03OUYwcnlqdnlnRGNhSDIwcUQxRGVicEIrQVZwZVQvdWZZREFnPT0K",
-      "url": "https://github.com/Ramneek121/autotap-releases/releases/download/setup-1.1.4/AutoTap-Setup.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRNE9ydzBldGtqTUpuQVh4blNNRDU4ZHRJSzhOWjBBT1ExSktLWkEyYjBWbUp6bE8raUU1NVl4Si81bWJDMmJ6R2tXR0lFTTFHR2ljRmVVVFFZQmxqSml2WnlkM3ZDTXc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMDc3NTIyCWZpbGU6QXV0b1RhcC1TZXR1cC5hcHAudGFyLmd6CjVlUWNlSjU4RCt6aG1GNHVTM25vanFYQ1g3djdtTXJnRjJkWFRqWUtyb1B1RnR0VXRJMmw3aUJDeTlUTW5KenBTdERuODNCcHBkSUQva25ZNlNKaUJRPT0K",
+      "url": "https://github.com/Ramneek121/autotap-releases/releases/download/setup-1.1.5/AutoTap-Setup.app.tar.gz"
     },
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRNE9ydzBldGtqTUJVV1MrRXZUNmI2NUdhN2wxMUpLejd3a2tyQm9oY2lFZERGMkJITklLVU5Va3Z2MlZtalo1ZjJ3QmJrZDBaa0NlZWp4WndUZVFickQ0QlhIU3ZVZ2dJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwODE0OTExCWZpbGU6QXV0b1RhcC1TZXR1cC5hcHAudGFyLmd6ClY0Q1NUUzN5cExqSllqWlQ2Nm9tMnlEUnRNOHFpM3hsT1V4VDhyczAxYnZiK0tZVW03OUYwcnlqdnlnRGNhSDIwcUQxRGVicEIrQVZwZVQvdWZZREFnPT0K",
-      "url": "https://github.com/Ramneek121/autotap-releases/releases/download/setup-1.1.4/AutoTap-Setup.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRNE9ydzBldGtqTUpuQVh4blNNRDU4ZHRJSzhOWjBBT1ExSktLWkEyYjBWbUp6bE8raUU1NVl4Si81bWJDMmJ6R2tXR0lFTTFHR2ljRmVVVFFZQmxqSml2WnlkM3ZDTXc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMDc3NTIyCWZpbGU6QXV0b1RhcC1TZXR1cC5hcHAudGFyLmd6CjVlUWNlSjU4RCt6aG1GNHVTM25vanFYQ1g3djdtTXJnRjJkWFRqWUtyb1B1RnR0VXRJMmw3aUJDeTlUTW5KenBTdERuODNCcHBkSUQva25ZNlNKaUJRPT0K",
+      "url": "https://github.com/Ramneek121/autotap-releases/releases/download/setup-1.1.5/AutoTap-Setup.app.tar.gz"
     }
   }
 }

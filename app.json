@@ -1,9 +1,9 @@
 {
-  "build": 22,
+  "build": 23,
   "version": "1.0.1",
-  "url": "https://github.com/Ramneek121/autotap-releases/releases/download/app-22/AutoTap.ipa",
-  "sha256": "425b90396c3df8fcf01b2bcd273d66c0e3c522a8515510d854581dcebf789851",
-  "size": 8556241,
-  "notes": "If you're on a call, AutoTap now tells you to end it to start tapping.",
-  "published": "2026-10-04T07:46:11Z"
+  "url": "https://github.com/Ramneek121/autotap-releases/releases/download/app-23/AutoTap.ipa",
+  "sha256": "547b00b835d02940a47945c13bffe361e6c9a3294371e3566798ace591d2a01b",
+  "size": 8555714,
+  "notes": "Send your log to support from Settings \u2192 Activity Log: attach it to a ticket in our Discord or email it.",
+  "published": "2026-10-04T07:53:47Z"
 }

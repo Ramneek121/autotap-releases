@@ -1,9 +1,9 @@
 {
-  "build": 20,
+  "build": 21,
   "version": "1.0.1",
-  "url": "https://github.com/Ramneek121/autotap-releases/releases/download/app-20/AutoTap.ipa",
-  "sha256": "06f0ec8416dfc0063a81ca1c250441724293baac3f9a12b0775f66a45752d656",
-  "size": 10702518,
-  "notes": "AutoTap 1.0.1",
-  "published": "2026-10-04T01:54:44Z"
+  "url": "https://github.com/Ramneek121/autotap-releases/releases/download/app-21/AutoTap.ipa",
+  "sha256": "ee03da98c12343a87477f44b296d1a41c0a431c4a5a6cc41983aae77aeba3948",
+  "size": 8555448,
+  "notes": "Privacy and stability improvements. Your activity log is now private, and you can send it to AutoTap support from Settings.",
+  "published": "2026-10-04T07:14:01Z"
 }

@@ -1,9 +1,9 @@
 {
-  "build": 17,
+  "build": 18,
   "version": "1.0.0",
-  "url": "https://github.com/Ramneek121/autotap-releases/releases/download/app-17/AutoTap.ipa",
-  "sha256": "2a6d9486a3589bde0382ffa983a37c6b0b0928b95123d4e9de56a0d179eb746e",
-  "size": 10698839,
-  "notes": null,
-  "published": "2026-10-02T06:43:57Z"
+  "url": "https://github.com/Ramneek121/autotap-releases/releases/download/app-18/AutoTap.ipa",
+  "sha256": "555411fd0acff906fc6da49f6f20a3987ffbb83fd1904c13e192d87f6af8b2a3",
+  "size": 10715596,
+  "notes": "Renew can remember your Apple Account password on this iPhone only, and the connection files AutoTap keeps are better protected.",
+  "published": "2026-10-04T01:36:03Z"
 }

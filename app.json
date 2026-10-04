@@ -1,9 +1,9 @@
 {
-  "build": 19,
-  "version": "1.0.0",
-  "url": "https://github.com/Ramneek121/autotap-releases/releases/download/app-19/AutoTap.ipa",
-  "sha256": "b328aa397c5c6dbef1c2cc625da05239d3580fc25a5dec4004567b1a4b7be35c",
-  "size": 10702527,
-  "notes": "Ad rewards are coming soon.",
-  "published": "2026-10-04T01:47:43Z"
+  "build": 20,
+  "version": "1.0.1",
+  "url": "https://github.com/Ramneek121/autotap-releases/releases/download/app-20/AutoTap.ipa",
+  "sha256": "06f0ec8416dfc0063a81ca1c250441724293baac3f9a12b0775f66a45752d656",
+  "size": 10702518,
+  "notes": "AutoTap 1.0.1",
+  "published": "2026-10-04T01:54:44Z"
 }

@@ -1,19 +1,19 @@
 {
-  "version": "1.1.8",
-  "notes": "AutoTap Setup now shows its version, and the menu has Check for Updates. It still updates itself every time it opens.",
-  "pub_date": "2026-10-04T14:51:59Z",
+  "version": "1.1.9",
+  "notes": "On Windows, the first step now asks for Apple Devices from the Microsoft Store, with a button to get it, and checks for it automatically.",
+  "pub_date": "2026-10-05T16:39:30Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRNE9ydzBldGtqTUNSMVJVN3JhcmJGTDBvZzFaN1Q3QVE2SlltRGVWOUxzcUJsS2Zab2xoaUtFMyttbXQ4RlhZQXBoaFBZSzVBN0JJUUVGU2dUcXFWMFBNRGp4WE5kcWdZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMTI1MzY0CWZpbGU6QXV0b1RhcC1TZXR1cC5hcHAudGFyLmd6CkR3RzVpVElBWi9lQXFDMjJhSkhXWTBDdkcwaXp6VS9NazdqMTNuR0JtdXM3RFBXcFJDbjVMZGJGamRxL2dhb2dzS3BTTEFQcmhpbzlybWZwSWRvNEN3PT0K",
-      "url": "https://github.com/Ramneek121/autotap-releases/releases/download/setup-1.1.8/AutoTap-Setup.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRNE9ydzBldGtqTUI5bk9qRHIxYUtzZG5LODRjU1EweXlCTElxQXBZQTVMNk4zNEdiSmpXVGJxdUlPcHdLcEJoMTlSeGZ6K2d5ayttVjJDSzB2dmdNNVcydGt0MTFkY0FZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMjE4MjIwCWZpbGU6QXV0b1RhcC1TZXR1cC5hcHAudGFyLmd6Cm5NaGozQm9LaWxIVzIxVHI0Z2dISjVLd0ZQL29oM1ZkSEVIUWI2d3paVktxd2N2eXJLbFVzcEZGSGN5cm5uT1h3R1dDNW5HS1BPa1hmNklsRzVzMkJnPT0K",
+      "url": "https://github.com/Ramneek121/autotap-releases/releases/download/setup-1.1.9/AutoTap-Setup.app.tar.gz"
     },
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRNE9ydzBldGtqTUNSMVJVN3JhcmJGTDBvZzFaN1Q3QVE2SlltRGVWOUxzcUJsS2Zab2xoaUtFMyttbXQ4RlhZQXBoaFBZSzVBN0JJUUVGU2dUcXFWMFBNRGp4WE5kcWdZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMTI1MzY0CWZpbGU6QXV0b1RhcC1TZXR1cC5hcHAudGFyLmd6CkR3RzVpVElBWi9lQXFDMjJhSkhXWTBDdkcwaXp6VS9NazdqMTNuR0JtdXM3RFBXcFJDbjVMZGJGamRxL2dhb2dzS3BTTEFQcmhpbzlybWZwSWRvNEN3PT0K",
-      "url": "https://github.com/Ramneek121/autotap-releases/releases/download/setup-1.1.8/AutoTap-Setup.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRNE9ydzBldGtqTUI5bk9qRHIxYUtzZG5LODRjU1EweXlCTElxQXBZQTVMNk4zNEdiSmpXVGJxdUlPcHdLcEJoMTlSeGZ6K2d5ayttVjJDSzB2dmdNNVcydGt0MTFkY0FZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMjE4MjIwCWZpbGU6QXV0b1RhcC1TZXR1cC5hcHAudGFyLmd6Cm5NaGozQm9LaWxIVzIxVHI0Z2dISjVLd0ZQL29oM1ZkSEVIUWI2d3paVktxd2N2eXJLbFVzcEZGSGN5cm5uT1h3R1dDNW5HS1BPa1hmNklsRzVzMkJnPT0K",
+      "url": "https://github.com/Ramneek121/autotap-releases/releases/download/setup-1.1.9/AutoTap-Setup.app.tar.gz"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRNE9ydzBldGtqTUZOOVFqeGFjN2l4VFlNWmx0ejZFNitFVXR3aitUVGlZMHNqbUM0YlI5R25ZMi9aTXdrcVA2V1J2RkJic1hwUXBoUGkyWnBZNWJQR2gwTnRXbWFQWGdvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMTI1NTAxCWZpbGU6QXV0b1RhcC1TZXR1cC5leGUKaFRHMDBvaWRJOVhJLzYvUWg4SVNCeGpneHRGZXJ0YlppODlaUEUydDVxTVJGc3RHVU5pSWxGNnU1TEp4N3BXZW5XR3hEck9ScWs3VTk4Q3ZWZ3FrRHc9PQo=",
-      "url": "https://github.com/Ramneek121/autotap-releases/releases/download/setup-1.1.8/AutoTap-Setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRNE9ydzBldGtqTUxJYXM5MUhiSWdkMXVQK0dvOFRIYTlmS3lVZkc0VVF1dzlvUVpIY29IUVRmS0tHUEJuK2Zrbzc4elNIOE1yYk02UWtmbmR2SFEvOVNtWlM2a0o2Z0FjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMjE4MzUyCWZpbGU6QXV0b1RhcC1TZXR1cC5leGUKNVpYOVcrNmNFdG90bTIrenBtcjJtNVh0UFJOVy80d3ovWmY2Y2NpQnM3WU8yWDdVZnNvVmM0enN5YllmOWVFNXl4bGZscXAwNVRydW1pS2k4UVhHQnc9PQo=",
+      "url": "https://github.com/Ramneek121/autotap-releases/releases/download/setup-1.1.9/AutoTap-Setup.exe"
     }
   }
 }

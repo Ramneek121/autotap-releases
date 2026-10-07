@@ -1,9 +1,9 @@
 {
-  "build": 24,
+  "build": 25,
   "version": "1.0.1",
-  "url": "https://github.com/Ramneek121/autotap-releases/releases/download/app-24/AutoTap.ipa",
-  "sha256": "4e9f34edb9c6a2df5168cfc48d4c8e9aff8a3512d3350da6ebe9a559d50937f5",
-  "size": 8556549,
-  "notes": "Run lengths now show in minutes, and the + and \u2212 buttons move a whole minute at a time.",
-  "published": "2026-10-04T14:56:58Z"
+  "url": "https://github.com/Ramneek121/autotap-releases/releases/download/app-25/AutoTap.ipa",
+  "sha256": "0ae8261dc449cdcd1969bf0b48ec8acb6e69db704ac120dd767ea944ee246694",
+  "size": 8556496,
+  "notes": "Small fixes and improvements.",
+  "published": "2026-10-07T17:16:09Z"
 }

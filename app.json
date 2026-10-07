@@ -1,9 +1,9 @@
 {
-  "build": 26,
+  "build": 27,
   "version": "1.0.1",
-  "url": "https://github.com/Ramneek121/autotap-releases/releases/download/app-26/AutoTap.ipa",
-  "sha256": "9ea21a8b515dff12cab026e826631b389434b9cb0a0f4e2e9a61e155ac7cfb4a",
-  "size": 8556496,
-  "notes": "New sign-in. After updating, sign in again with Apple or Google.",
-  "published": "2026-10-07T19:27:19Z"
+  "url": "https://github.com/Ramneek121/autotap-releases/releases/download/app-27/AutoTap.ipa",
+  "sha256": "f21bc071bbeec66183986b293fc3b468ad4f164dd7734580d7ca862ffbac4731",
+  "size": 8556568,
+  "notes": "Small fixes and improvements.",
+  "published": "2026-10-07T19:49:29Z"
 }

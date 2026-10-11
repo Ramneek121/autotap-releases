@@ -1,19 +1,19 @@
 {
-  "version": "1.1.12",
-  "notes": "On Windows, Setup now says plainly when Apple Devices is missing, installs it for you with one click, and opens it when it isn't running. When all 3 signing certificates are used, it picks the safest one to give up. Plus a Discord community button.",
-  "pub_date": "2026-10-07T23:02:00Z",
+  "version": "1.1.13",
+  "notes": "Fixes overlapping Step 4 phone animations and blank finishing-guide frames. Improves USB trust and Apple Devices connection handling, clarifies setup progress and the free-account handoff, and seals legacy support logs and crash reports. Mac download is Developer ID signed and Apple-notarized. Windows is not Authenticode publisher-signed and may show Windows security warnings.",
+  "pub_date": "2026-10-11T08:35:04Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRNE9ydzBldGtqTUpTZThkVGF5STN4ajAyZzBWWWFRSGxqY0lIS1JIQ1NVckJxS1NqaUE4Rk83d3VHb1dYWU1ObVhFSjkxaTUrSEQ4Z0hZbWgyeHFwb2lWT0JUQTZPN3dRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNDEzOTYwCWZpbGU6QXV0b1RhcC1TZXR1cC5hcHAudGFyLmd6CjhSTGE3UmlpYzUwOG8rcUg1SlNpUTRpdXBuZE5qYlgyRTQ3VHQwdkFZN1FyeXhZSGgyWW5pT0lMREpIaEplL0NjZjg4Y2dGbjF1R3l4RWhBWnhUWUFRPT0K",
-      "url": "https://github.com/Ramneek121/autotap-releases/releases/download/setup-1.1.12/AutoTap-Setup.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRNE9ydzBldGtqTU5nM21IM3FJV25RZThUSTlFT2dta3RncjdiVEhXK2wyZkZ3RVdmZTRDQUc2L2JzV3BOSGRhOWtpUmY0eEpqQmVQSnM1QUFuM2tBY1lkais1UnRDNkFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNzA3Njg2CWZpbGU6QXV0b1RhcC1TZXR1cC5hcHAudGFyLmd6ClFhT0JoVGZ0eXN3TnFUWnlqQ2ZNam4vMlIzeGI1NWp2UHoxdnhiem9NNWkxN3RuOFpkbzlEN0c0YmpoaDU3dks2dEZyUHVTTXVGMTFNRGgyM0dmcERBPT0K",
+      "url": "https://github.com/Ramneek121/autotap-releases/releases/download/setup-1.1.13/AutoTap-Setup.app.tar.gz"
     },
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRNE9ydzBldGtqTUpTZThkVGF5STN4ajAyZzBWWWFRSGxqY0lIS1JIQ1NVckJxS1NqaUE4Rk83d3VHb1dYWU1ObVhFSjkxaTUrSEQ4Z0hZbWgyeHFwb2lWT0JUQTZPN3dRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNDEzOTYwCWZpbGU6QXV0b1RhcC1TZXR1cC5hcHAudGFyLmd6CjhSTGE3UmlpYzUwOG8rcUg1SlNpUTRpdXBuZE5qYlgyRTQ3VHQwdkFZN1FyeXhZSGgyWW5pT0lMREpIaEplL0NjZjg4Y2dGbjF1R3l4RWhBWnhUWUFRPT0K",
-      "url": "https://github.com/Ramneek121/autotap-releases/releases/download/setup-1.1.12/AutoTap-Setup.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRNE9ydzBldGtqTU5nM21IM3FJV25RZThUSTlFT2dta3RncjdiVEhXK2wyZkZ3RVdmZTRDQUc2L2JzV3BOSGRhOWtpUmY0eEpqQmVQSnM1QUFuM2tBY1lkais1UnRDNkFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNzA3Njg2CWZpbGU6QXV0b1RhcC1TZXR1cC5hcHAudGFyLmd6ClFhT0JoVGZ0eXN3TnFUWnlqQ2ZNam4vMlIzeGI1NWp2UHoxdnhiem9NNWkxN3RuOFpkbzlEN0c0YmpoaDU3dks2dEZyUHVTTXVGMTFNRGgyM0dmcERBPT0K",
+      "url": "https://github.com/Ramneek121/autotap-releases/releases/download/setup-1.1.13/AutoTap-Setup.app.tar.gz"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRNE9ydzBldGtqTUI4ZXBBTTA5L2JpSGtSaGRLcm02ekcxeFE3UGJmakdhcXIyN0hscFV4NEIwZmhyU0pKcC8wTVpvOHdlUzhQNVdJUUtxUURIRDlyRXpCSGJtWEhtbGdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNDE0MTAxCWZpbGU6QXV0b1RhcC1TZXR1cC5leGUKdDFIU2cxVlcxTFFULyt4VXRzYzNnTXNFTm90dG9zdkMzTWNsNWovQlpDdjhWNmlPNXcySndUWlJhWFJEd0pjTDBzUE13cEtleXc5VFVNU0tDUzBxQ3c9PQo=",
-      "url": "https://github.com/Ramneek121/autotap-releases/releases/download/setup-1.1.12/AutoTap-Setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRNE9ydzBldGtqTU0xT0Z4Vkg4T29oU0ZIc3F1NzdGT1NNcUxmS2V6VG11enZPWE1zV1VPaXBJekVBVzFvVXYwK1FUY3ZCRmdCZlo3eWJ3am0vM3NPZXdPTmRZazF6Y2dZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNzA3Njg3CWZpbGU6QXV0b1RhcC1TZXR1cC5leGUKdnowcWl0Mk9MNnJTdWFIRUlyTE5NNFh3LzBIZUE0NHBMYjAzRlo2SnFtYmxrUS94QzV6MXVra2JZOFdENXZoSGVwdENFK2pEZ0xsbS9Kbnc5bU8yQmc9PQo=",
+      "url": "https://github.com/Ramneek121/autotap-releases/releases/download/setup-1.1.13/AutoTap-Setup.exe"
     }
   }
 }

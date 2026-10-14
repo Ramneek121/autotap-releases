@@ -1,9 +1,9 @@
 {
-  "build": 36,
-  "version": "1.0.1",
-  "url": "https://github.com/Ramneek121/autotap-releases/releases/download/app-36/AutoTap.ipa",
-  "sha256": "99814f08cbb6b165de63514112bd34d8f1d17462e2a8aa43bdf586dfe5441a83",
-  "size": 11065930,
-  "notes": "Added Settings \u2192 Background Audio \u2192 Silent Audio. On by default; turn it off between runs if preferred. Disabling it may interrupt background tapping and volume-button controls.",
-  "published": "2026-10-14T08:44:26Z"
+  "build": 37,
+  "version": "1.0.2",
+  "url": "https://github.com/Ramneek121/autotap-releases/releases/download/app-37/AutoTap.ipa",
+  "sha256": "6834795e33eee7a7a3f97a42c2fc3ef08fa5dcbbc030979b837a0e91552fc524",
+  "size": 11035915,
+  "notes": "Direct-input tapping without opening a screen-sharing session. Includes one-shot screenshots, improved rewarded-ad loading and errors, and the Silent Audio setting. Personal-account renewal remains available.",
+  "published": "2026-10-14T14:43:29Z"
 }

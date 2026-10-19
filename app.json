@@ -1,9 +1,9 @@
 {
-  "build": 40,
+  "build": 41,
   "version": "1.0.2",
-  "url": "https://github.com/Ramneek121/autotap-releases/releases/download/app-40/AutoTap.ipa",
-  "sha256": "3b65f92e4aa4f8a1441233bc1885c4bad8dbfbf4a4c8a6ecba0a58764eae34cd",
-  "size": 11263498,
-  "notes": "Updated on-device Renew sign-in, a home-screen Renew shortcut with the real expiry date, and 24-hour expiry for newly earned ad time. Existing earned balances are preserved. Keeps one-app direct-input tapping without screen sharing.",
-  "published": "2026-10-19T22:13:08Z"
+  "url": "https://github.com/Ramneek121/autotap-releases/releases/download/app-41/AutoTap.ipa",
+  "sha256": "7d5d9433bb2f17fca9e7e525b572dc31c3a5bfb844ac4e6fb724a9f6e8eb95c3",
+  "size": 11262694,
+  "notes": "Adds Mount Developer Image to Settings Quick Actions. Connects to your device, downloads the image if needed, mounts it, and verifies developer services. Shows whether the image was mounted now or already available, keeps the screen awake during preparation, and closes the connection afterward. Keeps the input-only tapping engine and updated Apple Account renewal.",
+  "published": "2026-10-19T23:25:18Z"
 }

@@ -1,9 +1,9 @@
 {
-  "build": 37,
+  "build": 40,
   "version": "1.0.2",
-  "url": "https://github.com/Ramneek121/autotap-releases/releases/download/app-37/AutoTap.ipa",
-  "sha256": "6834795e33eee7a7a3f97a42c2fc3ef08fa5dcbbc030979b837a0e91552fc524",
-  "size": 11035915,
-  "notes": "Direct-input tapping without opening a screen-sharing session. Includes one-shot screenshots, improved rewarded-ad loading and errors, and the Silent Audio setting. Personal-account renewal remains available.",
-  "published": "2026-10-14T14:43:29Z"
+  "url": "https://github.com/Ramneek121/autotap-releases/releases/download/app-40/AutoTap.ipa",
+  "sha256": "3b65f92e4aa4f8a1441233bc1885c4bad8dbfbf4a4c8a6ecba0a58764eae34cd",
+  "size": 11263498,
+  "notes": "Updated on-device Renew sign-in, a home-screen Renew shortcut with the real expiry date, and 24-hour expiry for newly earned ad time. Existing earned balances are preserved. Keeps one-app direct-input tapping without screen sharing.",
+  "published": "2026-10-19T22:13:08Z"
 }

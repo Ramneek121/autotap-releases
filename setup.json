@@ -1,19 +1,19 @@
 {
-  "version": "1.1.17",
-  "notes": "Includes AutoTap44 with input-only tapping, bottom banner ads and Start/editor/occasional-tab interstitials for free accounts. Updates the installer to show 30 free minutes daily and 30 minutes per rewarded ad. Premium remains ad-free.",
-  "pub_date": "2026-10-22T05:23:23Z",
+  "version": "1.1.18",
+  "notes": "Updates Apple Account sign-in on Mac and Windows to the iLoader 2.4.0 helper selection. Removes legacy Windows helpers from automatic selection and distinguishes Apple -80046 developer-token refusals from incorrect-password errors. Includes AutoTap 44 unchanged.",
+  "pub_date": "2026-10-22T18:57:48Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRNE9ydzBldGtqTUswM05uS2dFSklpNTdnT1NBUTRnYnJSK3BUVjBWcVRlRWNrVFJNQmJpVzNtS3FaUWorT0hhWmorU0kzK3pMWDBpdlJGSUR5a09Nd2VTNGk4TndkNEFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNjQ2NTc0CWZpbGU6QXV0b1RhcC1TZXR1cC5hcHAudGFyLmd6CmczWFp6bE1uREdEc1dUSGswbWNrRW01NHoxVklRKzdEVi82ZWMvY3owWWswWmlnQkYvdEZoY09jdE5SalRzN0VQZnlmc1puMGdZVzhkUmxHYkczRERnPT0K",
-      "url": "https://github.com/Ramneek121/autotap-releases/releases/download/setup-1.1.17/AutoTap-Setup.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRNE9ydzBldGtqTU5SaXBVMkc3aEgwV0lnZjZxSGJoMU5idTdnRVZza1ZqRk84N0VXMW0ybVI5OHNqUks2N0FjUnFXM0RjWkVRTVJHQldJKy9ibnJIRkgyZlJrL2dBL2dZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNjk1NDQ1CWZpbGU6QXV0b1RhcC1TZXR1cC5hcHAudGFyLmd6ClFaaFVjQktTT1YxQWZWOSt4MnRrKzBaUVlrTWF4YXU5clpETFU4YThWTWJGSTFPYkNXbytETkUyWkJ0czRwQ2hvRU1rK0xkZ2VtQUhsb05UbmVUQ0RnPT0K",
+      "url": "https://github.com/Ramneek121/autotap-releases/releases/download/setup-1.1.18/AutoTap-Setup.app.tar.gz"
     },
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRNE9ydzBldGtqTUswM05uS2dFSklpNTdnT1NBUTRnYnJSK3BUVjBWcVRlRWNrVFJNQmJpVzNtS3FaUWorT0hhWmorU0kzK3pMWDBpdlJGSUR5a09Nd2VTNGk4TndkNEFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNjQ2NTc0CWZpbGU6QXV0b1RhcC1TZXR1cC5hcHAudGFyLmd6CmczWFp6bE1uREdEc1dUSGswbWNrRW01NHoxVklRKzdEVi82ZWMvY3owWWswWmlnQkYvdEZoY09jdE5SalRzN0VQZnlmc1puMGdZVzhkUmxHYkczRERnPT0K",
-      "url": "https://github.com/Ramneek121/autotap-releases/releases/download/setup-1.1.17/AutoTap-Setup.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRNE9ydzBldGtqTU5SaXBVMkc3aEgwV0lnZjZxSGJoMU5idTdnRVZza1ZqRk84N0VXMW0ybVI5OHNqUks2N0FjUnFXM0RjWkVRTVJHQldJKy9ibnJIRkgyZlJrL2dBL2dZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNjk1NDQ1CWZpbGU6QXV0b1RhcC1TZXR1cC5hcHAudGFyLmd6ClFaaFVjQktTT1YxQWZWOSt4MnRrKzBaUVlrTWF4YXU5clpETFU4YThWTWJGSTFPYkNXbytETkUyWkJ0czRwQ2hvRU1rK0xkZ2VtQUhsb05UbmVUQ0RnPT0K",
+      "url": "https://github.com/Ramneek121/autotap-releases/releases/download/setup-1.1.18/AutoTap-Setup.app.tar.gz"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRNE9ydzBldGtqTUYvZzZrazJIL0pLK09NbDFxV3VkcXpvSGlpVngwTWRaeDVVSStCc1p6OHEwTG13Zk1JTGlOdHowYjB2bzJFVUk1bzFQR1JRQS9xN21PeWpuZXEwK1FnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNjQ2NTc2CWZpbGU6QXV0b1RhcC1TZXR1cC5leGUKTTMrd25ZWjdKZkU1bWh6TitsSWUwanRyUHZPblJ5REtVblBsWFdLcE9qTldVeE5sWnhnV21vMEJZZ0MyeVJjdjdKUmVTQy94VE1sV1hzbXVpK3ZUQlE9PQo=",
-      "url": "https://github.com/Ramneek121/autotap-releases/releases/download/setup-1.1.17/AutoTap-Setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRNE9ydzBldGtqTUJaSXZYc3d5Mi9tOW4rYzYvc1l5Q3UyLzZDNnQvcWVvTWV6K2VqWWVpTktlaWNsRlRPTjNBT0M1YXQwZS9uSTRQaFRnOTVwa3ZmMTNhdnBsUjczSHdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNjk1NDQ3CWZpbGU6QXV0b1RhcC1TZXR1cC5leGUKWGp3amtEeXJKSENkWGVRbE14eEloYitNMHhVWmdhY2lGSGJmcHJFekNoNzVtdDJwWEw4cU00N2xST0gzMGIzUFl4S3FVQWRlQUhMYzJXakZEaEgwQUE9PQo=",
+      "url": "https://github.com/Ramneek121/autotap-releases/releases/download/setup-1.1.18/AutoTap-Setup.exe"
     }
   }
 }

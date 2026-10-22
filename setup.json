@@ -1,19 +1,19 @@
 {
-  "version": "1.1.16",
-  "notes": "Fixes Apple sign-in failing with a 503 error. Apple stopped accepting the identity AutoTap Setup was sending, so it now takes that identity from the anisette service and reprovisions by itself if it ever goes stale. Also fixes a false \"check your password\" error when the certificate list opened.",
-  "pub_date": "2026-10-15T01:58:45Z",
+  "version": "1.1.17",
+  "notes": "Includes AutoTap44 with input-only tapping, bottom banner ads and Start/editor/occasional-tab interstitials for free accounts. Updates the installer to show 30 free minutes daily and 30 minutes per rewarded ad. Premium remains ad-free.",
+  "pub_date": "2026-10-22T05:23:23Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRNE9ydzBldGtqTUFpczViSUk2TXhNY3MwaGFwd09lejhNbTBLeTN1Rk5NazZvbDczYWozL1VVdEFTQ0w3aHc4QlhOV0ZDaVRTbUdJTTZlWWFKTjd6UFlWcnU0SFRIZVFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMDI5MzM4CWZpbGU6QXV0b1RhcC1TZXR1cC5hcHAudGFyLmd6CnJEQ0wwbDdwTmpmTlhwSW9xK082S0hING5TTTJNK1pZTjZRTkxtVmYvWXpqem9ETDNZTWtFalN5ZmpiSDNZRVRhMWwzN0xZZ0ROK2hFM0x2aUtyQkRnPT0K",
-      "url": "https://github.com/Ramneek121/autotap-releases/releases/download/setup-1.1.16/AutoTap-Setup.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRNE9ydzBldGtqTUswM05uS2dFSklpNTdnT1NBUTRnYnJSK3BUVjBWcVRlRWNrVFJNQmJpVzNtS3FaUWorT0hhWmorU0kzK3pMWDBpdlJGSUR5a09Nd2VTNGk4TndkNEFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNjQ2NTc0CWZpbGU6QXV0b1RhcC1TZXR1cC5hcHAudGFyLmd6CmczWFp6bE1uREdEc1dUSGswbWNrRW01NHoxVklRKzdEVi82ZWMvY3owWWswWmlnQkYvdEZoY09jdE5SalRzN0VQZnlmc1puMGdZVzhkUmxHYkczRERnPT0K",
+      "url": "https://github.com/Ramneek121/autotap-releases/releases/download/setup-1.1.17/AutoTap-Setup.app.tar.gz"
     },
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRNE9ydzBldGtqTUFpczViSUk2TXhNY3MwaGFwd09lejhNbTBLeTN1Rk5NazZvbDczYWozL1VVdEFTQ0w3aHc4QlhOV0ZDaVRTbUdJTTZlWWFKTjd6UFlWcnU0SFRIZVFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMDI5MzM4CWZpbGU6QXV0b1RhcC1TZXR1cC5hcHAudGFyLmd6CnJEQ0wwbDdwTmpmTlhwSW9xK082S0hING5TTTJNK1pZTjZRTkxtVmYvWXpqem9ETDNZTWtFalN5ZmpiSDNZRVRhMWwzN0xZZ0ROK2hFM0x2aUtyQkRnPT0K",
-      "url": "https://github.com/Ramneek121/autotap-releases/releases/download/setup-1.1.16/AutoTap-Setup.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRNE9ydzBldGtqTUswM05uS2dFSklpNTdnT1NBUTRnYnJSK3BUVjBWcVRlRWNrVFJNQmJpVzNtS3FaUWorT0hhWmorU0kzK3pMWDBpdlJGSUR5a09Nd2VTNGk4TndkNEFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNjQ2NTc0CWZpbGU6QXV0b1RhcC1TZXR1cC5hcHAudGFyLmd6CmczWFp6bE1uREdEc1dUSGswbWNrRW01NHoxVklRKzdEVi82ZWMvY3owWWswWmlnQkYvdEZoY09jdE5SalRzN0VQZnlmc1puMGdZVzhkUmxHYkczRERnPT0K",
+      "url": "https://github.com/Ramneek121/autotap-releases/releases/download/setup-1.1.17/AutoTap-Setup.app.tar.gz"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRNE9ydzBldGtqTU05OXVRNW9SVDlwVElqYWpBZTFWY0ljYXZJQzljc2N4dnhUdXpjdGRmUjZXVGw5RFNxRThIdGNOZkxnV0ZwY29qbENWeHFZc1NuS2ZOdmJWS0RFTkFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMDI5NTA1CWZpbGU6QXV0b1RhcC1TZXR1cC5leGUKUjNyVCtCQjB5VlhkazBXOTNjemxXdmlhaXJ1VUZxRnk0WnErRnd3MHhBY254dFh2cXlXT0xoVWkvL296T0l0dTlNTXhydDhHNm16RDE4RkF3S2d0QUE9PQo=",
-      "url": "https://github.com/Ramneek121/autotap-releases/releases/download/setup-1.1.16/AutoTap-Setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRNE9ydzBldGtqTUYvZzZrazJIL0pLK09NbDFxV3VkcXpvSGlpVngwTWRaeDVVSStCc1p6OHEwTG13Zk1JTGlOdHowYjB2bzJFVUk1bzFQR1JRQS9xN21PeWpuZXEwK1FnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNjQ2NTc2CWZpbGU6QXV0b1RhcC1TZXR1cC5leGUKTTMrd25ZWjdKZkU1bWh6TitsSWUwanRyUHZPblJ5REtVblBsWFdLcE9qTldVeE5sWnhnV21vMEJZZ0MyeVJjdjdKUmVTQy94VE1sV1hzbXVpK3ZUQlE9PQo=",
+      "url": "https://github.com/Ramneek121/autotap-releases/releases/download/setup-1.1.17/AutoTap-Setup.exe"
     }
   }
 }

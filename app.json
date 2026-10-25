@@ -1,9 +1,9 @@
 {
-  "build": 44,
+  "build": 45,
   "version": "1.0.2",
-  "url": "https://github.com/Ramneek121/autotap-releases/releases/download/app-44/AutoTap.ipa",
-  "sha256": "f549b7d01efc8438b0db8dc8eec06c19abfc1f4923a00dc21543aa962fc3143b",
-  "size": 11312120,
-  "notes": "Adds bottom banner ads and interstitials on Start, Speed, Stop After, and occasional tab changes for free accounts. Premium stays ad-free. Includes 30-minute daily tapping and 30 minutes per rewarded ad, on-device renewal, Mount Developer Image, and the input-only tapping engine.",
-  "published": "2026-10-22T05:15:07Z"
+  "url": "https://github.com/Ramneek121/autotap-releases/releases/download/app-45/AutoTap.ipa",
+  "sha256": "f695b422394dc7b5888a3260431eca7fd5a47e2e14e9993753e0ac5756499256",
+  "size": 11313353,
+  "notes": "Less intrusive ads: Start ads stay unchanged. Speed, Stop After, and tab navigation now have a 20% ad chance with a shared two-minute cooldown, and never wait for an ad to load.",
+  "published": "2026-10-25T00:10:35Z"
 }

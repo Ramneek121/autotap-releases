@@ -1,9 +1,1 @@
-{
-  "build": 47,
-  "version": "1.0.3",
-  "url": "https://github.com/Ramneek121/autotap-releases/releases/download/app-1.0.3/AutoTap.ipa",
-  "sha256": "233034f1dbf1b101cef541158e9e5d32c10cad2e0896e053a954a483b107cf08",
-  "size": 11273357,
-  "notes": "AutoTap 1.0.3 adds an immersive walkthrough inside the real app. Desktop-installed pairing is reused; phone-only installs pair only when needed. Your first successful run and setup, renewal, settings, and navigation are free of interstitials. Later interstitials appear at a visible completed-run break with a five-minute cooldown, including after rewarded ads. Optional 30-minute rewarded ads and separated bottom banners remain. The input-only touch engine is unchanged.",
-  "published": "2026-10-30T15:49:27Z"
-}
+{"build":47,"notes":"New guided walkthrough, smoother setup, and improved ad timing.","published":"2026-10-30T15:49:27Z","sha256":"233034f1dbf1b101cef541158e9e5d32c10cad2e0896e053a954a483b107cf08","size":11273357,"url":"https://github.com/Ramneek121/autotap-releases/releases/download/app-1.0.3/AutoTap.ipa","version":"1.0.3"}

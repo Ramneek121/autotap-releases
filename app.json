@@ -1,9 +1,9 @@
 {
-  "build": 51,
-  "version": "1.1",
-  "url": "https://github.com/Ramneek121/autotap-releases/releases/download/app-1.1/AutoTap.ipa",
-  "sha256": "aabf57c2d50cce0f76c542da5eb63f5cbbf4b1067ac85832662526f389c493ae",
-  "size": 11343922,
-  "notes": "A refreshed look for Account, Settings and Premium.",
-  "published": "2026-11-01T07:15:22Z"
+  "build": 52,
+  "version": "1.1.1",
+  "url": "https://github.com/Ramneek121/autotap-releases/releases/download/app-1.1.1/AutoTap.ipa",
+  "sha256": "c2e7180a9186234919872ff3442f70d4f92784855d51afb2558e95dce6dd486d",
+  "size": 11382682,
+  "notes": "Smoother setup guidance and clearer connection help.",
+  "published": "2026-11-01T07:56:10Z"
 }

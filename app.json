@@ -1,9 +1,9 @@
 {
-  "build": 54,
-  "version": "1.1.2",
-  "url": "https://github.com/Ramneek121/autotap-releases/releases/download/app-1.1.2/AutoTap.ipa",
-  "sha256": "2397d2b1959e2810310d7436fee4e99c02df36409db46e68870a66e1999b22b9",
-  "size": 11376411,
-  "notes": "Easier setup and improved pairing.",
-  "published": "2026-11-01T19:26:24Z"
+  "build": 55,
+  "version": "1.1.3",
+  "url": "https://github.com/Ramneek121/autotap-releases/releases/download/app-1.1.3/AutoTap.ipa",
+  "sha256": "c90095eded3d11de8bd12dee2000ec1fe1a8059ba999dd3700b8bc63f95572fe",
+  "size": 11427782,
+  "notes": "Smoother setup, improved ads and a cleaner Home screen.",
+  "published": "2026-11-01T21:28:15Z"
 }

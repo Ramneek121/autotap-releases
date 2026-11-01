@@ -1,9 +1,9 @@
 {
-  "build": 48,
-  "version": "1.0.4",
-  "url": "https://github.com/Ramneek121/autotap-releases/releases/download/app-1.0.4/AutoTap.ipa",
-  "sha256": "0352ba6d2e140182318ef4118819bdb798c05b9b33b2001c762867053479ee8f",
-  "size": 11308297,
-  "notes": "Cleaner layout, more room for your screen, and a smaller ad banner.",
-  "published": "2026-10-31T23:07:21Z"
+  "build": 50,
+  "version": "1.0.5",
+  "url": "https://github.com/Ramneek121/autotap-releases/releases/download/app-1.0.5/AutoTap.ipa",
+  "sha256": "fc12d3e659f23f545651727c956acd63fc21543eaba864b97be8c9471a0388a1",
+  "size": 11350998,
+  "notes": "Earn more free time after a run, or explore Premium.",
+  "published": "2026-11-01T02:03:11Z"
 }

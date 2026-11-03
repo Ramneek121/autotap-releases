@@ -1,9 +1,9 @@
 {
-  "build": 56,
-  "version": "1.1.4",
-  "url": "https://github.com/Ramneek121/autotap-releases/releases/download/app-1.1.4/AutoTap.ipa",
-  "sha256": "cab99f90bbc257eb271174a275a575f153454c2dd0ceba8c0ae27b160abcf84b",
-  "size": 11427816,
-  "notes": "Smoother iPad layout.",
-  "published": "2026-11-01T22:18:42Z"
+  "build": 57,
+  "version": "1.1.5",
+  "url": "https://github.com/Ramneek121/autotap-releases/releases/download/app-1.1.5/AutoTap.ipa",
+  "sha256": "9c3498b6ab6f8ca8c5597801e5ea24292aff2aa6b67b19565f5e82995621537b",
+  "size": 11428215,
+  "notes": "Connection improvements.",
+  "published": "2026-11-03T22:19:57Z"
 }
